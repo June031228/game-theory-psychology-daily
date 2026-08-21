@@ -1,0 +1,17 @@
+{
+  "project": "每日博弈论与心理学",
+  "repo": "June031228/game-theory-psychology-daily",
+  "total_days": 30,
+  "last_day": 1,
+  "published": [
+    {
+      "day": 1,
+      "topic": "纳什均衡",
+      "github_path": "content/day-001.md",
+      "tdoc_file_id": "WPdTZUrtmkjn",
+      "tdoc_url": "https://docs.qq.com/aio/DV1BkVFpVcnRta2pu",
+      "date": "2026-08-21"
+    }
+  ],
+  "next_action": "generate day 2 (囚徒困境) and append to repo + tencent docs"
+}

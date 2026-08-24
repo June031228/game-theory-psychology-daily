@@ -16,6 +16,7 @@
 | Day 001 | 纳什均衡：为什么"理性"的人会一起走进死胡同？ | [content/day-001.md](content/day-001.md) |
 | Day 002 | 囚徒困境：为什么明知合作更好，我们却偏偏互相背叛？ | [content/day-002.md](content/day-002.md) |
 | Day 003 | 占优策略：为什么有些决策根本不用考虑对手怎么出牌？ | [content/day-003.md](content/day-003.md) |
+| Day 004 | 零和与非零和博弈：从“分蛋糕”到“做蛋糕” | [content/day-004.md](content/day-004.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

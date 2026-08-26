@@ -18,6 +18,7 @@
 | Day 003 | 占优策略：为什么有些决策根本不用考虑对手怎么出牌？ | [content/day-003.md](content/day-003.md) |
 | Day 004 | 零和与非零和博弈：从“分蛋糕”到“做蛋糕” | [content/day-004.md](content/day-004.md) |
 | Day 005 | 协调博弈：怎么让大家往同一个方向使劲？ | [content/day-005.md](content/day-005.md) |
+| Day 006 | 鹰鸽博弈：什么时候该硬刚，什么时候该退一步？ | [content/day-006.md](content/day-006.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

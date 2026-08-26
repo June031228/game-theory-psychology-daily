@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 4,
+  "last_day": 5,
   "published": [
     {
       "day": 1,
@@ -35,7 +35,15 @@
       "tdoc_file_id": "WHuhJoZzVlUy",
       "tdoc_url": "https://docs.qq.com/aio/DV0h1aEpvWnpWbFV5",
       "date": "2026-08-24"
+    },
+    {
+      "day": 5,
+      "topic": "协调博弈",
+      "github_path": "content/day-005.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-08-26"
     }
   ],
-  "next_action": "generate day 5 (协调博弈) and append to repo + tencent docs"
+  "next_action": "generate day 6 (鹰鸽博弈) and append to repo + tencent docs"
 }

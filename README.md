@@ -19,6 +19,7 @@
 | Day 004 | 零和与非零和博弈：从“分蛋糕”到“做蛋糕” | [content/day-004.md](content/day-004.md) |
 | Day 005 | 协调博弈：怎么让大家往同一个方向使劲？ | [content/day-005.md](content/day-005.md) |
 | Day 006 | 鹰鸽博弈：什么时候该硬刚，什么时候该退一步？ | [content/day-006.md](content/day-006.md) |
+| Day 007 | 智猪博弈：为什么该花的钱，总想让别人去花？ | [content/day-007.md](content/day-007.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

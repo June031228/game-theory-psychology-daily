@@ -20,6 +20,7 @@
 | Day 005 | 协调博弈：怎么让大家往同一个方向使劲？ | [content/day-005.md](content/day-005.md) |
 | Day 006 | 鹰鸽博弈：什么时候该硬刚，什么时候该退一步？ | [content/day-006.md](content/day-006.md) |
 | Day 007 | 智猪博弈：为什么该花的钱，总想让别人去花？ | [content/day-007.md](content/day-007.md) |
+| Day 008 | 重复博弈：为什么"明天还会再见"，今天就不敢轻易翻脸？ | [content/day-008.md](content/day-008.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

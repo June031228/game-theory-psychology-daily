@@ -22,6 +22,7 @@
 | Day 007 | 智猪博弈：为什么该花的钱，总想让别人去花？ | [content/day-007.md](content/day-007.md) |
 | Day 008 | 重复博弈：为什么"明天还会再见"，今天就不敢轻易翻脸？ | [content/day-008.md](content/day-008.md) |
 | Day 009 | 声誉机制：为什么好名声比合同更管用？ | [content/day-009.md](content/day-009.md) |
+| Day 010 | 共同知识：为什么“大家都知道”和“大家都知道大家都知道”，是完全不同的两件事？ | [content/day-010.md](content/day-010.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

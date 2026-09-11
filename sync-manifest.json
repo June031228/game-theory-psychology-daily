@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 9,
+  "last_day": 10,
   "published": [
     {
       "day": 1,
@@ -75,7 +75,15 @@
       "tdoc_url": "https://docs.qq.com/aio/DV1Njc0ZEeWJwTUNO",
       "tdoc_file_id": "WScsFDybpMCN",
       "date": "2026-09-08"
+    },
+    {
+      "day": 10,
+      "topic": "共同知识",
+      "github_path": "content/day-010.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-09-11"
     }
   ],
-  "next_action": "generate day 10 (共同知识) and append to repo + tencent docs"
+  "next_action": "Day 010 完成。下期进入 Phase 2 心理学基石：Day 011 锚定效应"
 }

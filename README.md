@@ -16,13 +16,14 @@
 | Day 001 | 纳什均衡：为什么"理性"的人会一起走进死胡同？ | [content/day-001.md](content/day-001.md) |
 | Day 002 | 囚徒困境：为什么明知合作更好，我们却偏偏互相背叛？ | [content/day-002.md](content/day-002.md) |
 | Day 003 | 占优策略：为什么有些决策根本不用考虑对手怎么出牌？ | [content/day-003.md](content/day-003.md) |
-| Day 004 | 零和与非零和博弈：从“分蛋糕”到“做蛋糕” | [content/day-004.md](content/day-004.md) |
+| Day 004 | 零和与非零和博弈：从"分蛋糕"到"做蛋糕" | [content/day-004.md](content/day-004.md) |
 | Day 005 | 协调博弈：怎么让大家往同一个方向使劲？ | [content/day-005.md](content/day-005.md) |
 | Day 006 | 鹰鸽博弈：什么时候该硬刚，什么时候该退一步？ | [content/day-006.md](content/day-006.md) |
 | Day 007 | 智猪博弈：为什么该花的钱，总想让别人去花？ | [content/day-007.md](content/day-007.md) |
 | Day 008 | 重复博弈：为什么"明天还会再见"，今天就不敢轻易翻脸？ | [content/day-008.md](content/day-008.md) |
 | Day 009 | 声誉机制：为什么好名声比合同更管用？ | [content/day-009.md](content/day-009.md) |
-| Day 010 | 共同知识：为什么“大家都知道”和“大家都知道大家都知道”，是完全不同的两件事？ | [content/day-010.md](content/day-010.md) |
+| Day 010 | 共同知识：为什么"大家都知道"和"大家都知道大家都知道"，是完全不同的两件事？ | [content/day-010.md](content/day-010.md) |
+| Day 011 | 锚定效应：你看到的第一个数字，正在替你做决定 | [content/day-011.md](content/day-011.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

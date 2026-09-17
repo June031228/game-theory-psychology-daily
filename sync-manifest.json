@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 11,
+  "last_day": 12,
   "published": [
     {
       "day": 1,
@@ -91,7 +91,15 @@
       "tdoc_url": "https://docs.qq.com/aio/DV2hMSG5qaVNiVURT",
       "tdoc_file_id": "WhLHnjiSbUDS",
       "date": "2026-09-14"
+    },
+    {
+      "day": 12,
+      "topic": "损失厌恶",
+      "github_path": "content/day-012.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-09-17"
     }
   ],
-  "next_action": "Day 011 完成。下期 Day 012 损失厌恶"
+  "next_action": "Day 012 完成。下期 Day 013 确认偏误（Phase 2 心理学基石第 3 天）"
 }

@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 12,
+  "last_day": 13,
   "published": [
     {
       "day": 1,
@@ -99,7 +99,15 @@
       "tdoc_url": "https://docs.qq.com/aio/DV1R5eHFLem1ESnpu",
       "tdoc_file_id": "WTyxqKzmDJzn",
       "date": "2026-09-17"
+    },
+    {
+      "day": 13,
+      "topic": "确认偏误",
+      "github_path": "content/day-013.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-09-20"
     }
   ],
-  "next_action": "Day 012 完成（腾讯文档已归档）。下期 Day 013 确认偏误（Phase 2 心理学基石第 3 天）"
+  "next_action": "Day 013 完成（GitHub 已推送，腾讯文档待同步）。下期 Day 014 从众效应（Phase 2 心理学基石第 4 天）"
 }

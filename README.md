@@ -25,6 +25,7 @@
 | Day 010 | 共同知识：为什么"大家都知道"和"大家都知道大家都知道"，是完全不同的两件事？ | [content/day-010.md](content/day-010.md) |
 | Day 011 | 锚定效应：你看到的第一个数字，正在替你做决定 | [content/day-011.md](content/day-011.md) |
 | Day 012 | 损失厌恶：亏 100 块的痛，要赚 200 块才补得平 | [content/day-012.md](content/day-012.md) |
+| Day 013 | 确认偏误：你不是在找答案，是在找自己想要的答案 | [content/day-013.md](content/day-013.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

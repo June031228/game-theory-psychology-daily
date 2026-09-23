@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 13,
+  "last_day": 14,
   "published": [
     {
       "day": 1,
@@ -107,7 +107,15 @@
       "tdoc_url": "https://docs.qq.com/aio/DV3hqZnZab0NSVUZH",
       "tdoc_file_id": "WxjfvZoCRUFG",
       "date": "2026-09-20"
+    },
+    {
+      "day": 14,
+      "topic": "从众效应",
+      "github_path": "content/day-014.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-09-23"
     }
   ],
-  "next_action": "Day 013 完成（GitHub + 腾讯文档均已归档）。下期 Day 014 从众效应（Phase 2 心理学基石第 4 天）"
+  "next_action": "Day 014 完成（GitHub 已推送，腾讯文档待同步）。下期 Day 015 框架效应（Phase 2 心理学基石第 5 天）"
 }

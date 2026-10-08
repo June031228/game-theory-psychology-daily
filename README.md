@@ -28,6 +28,7 @@
 | Day 013 | 确认偏误：你不是在找答案，是在找自己想要的答案 | [content/day-013.md](content/day-013.md) |
 | Day 014 | 从众效应：别人都做，我就安全？ | [content/day-014.md](content/day-014.md) |
 | Day 015 | 框架效应：怎么说，比说什么更重要 | [content/day-015.md](content/day-015.md) |
+| Day 016 | 可得性偏差：容易想到的，不等于更常发生的 | [content/day-016.md](content/day-016.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 15,
+  "last_day": 16,
   "published": [
     {
       "day": 1,
@@ -123,7 +123,15 @@
       "tdoc_url": "",
       "tdoc_file_id": "",
       "date": "2026-09-29"
+    },
+    {
+      "day": 16,
+      "topic": "可得性偏差",
+      "github_path": "content/day-016.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-10-08"
     }
   ],
-  "next_action": "Day 015 完成（GitHub 已推送，腾讯文档待同步）。下期 Day 016 可得性偏差（Phase 2 心理学基石第 6 天）"
+  "next_action": "Day 016 完成（GitHub 已推送，腾讯文档待同步）。下期 Day 017 沉没成本（Phase 2 心理学基石第 7 天）"
 }

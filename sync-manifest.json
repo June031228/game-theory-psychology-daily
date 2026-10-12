@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 16,
+  "last_day": 17,
   "published": [
     {
       "day": 1,
@@ -131,7 +131,15 @@
       "tdoc_url": "",
       "tdoc_file_id": "",
       "date": "2026-10-08"
+    },
+    {
+      "day": 17,
+      "topic": "沉没成本",
+      "github_path": "content/day-017.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-10-12"
     }
   ],
-  "next_action": "Day 016 完成（GitHub 已推送，腾讯文档待同步）。下期 Day 017 沉没成本（Phase 2 心理学基石第 7 天）"
+  "next_action": "Day 017 完成（GitHub 已推送，腾讯文档待同步）。下期 Day 018 心理账户（Phase 2 心理学基石第 8 天）"
 }

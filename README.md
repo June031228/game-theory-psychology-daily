@@ -31,6 +31,7 @@
 | Day 016 | 可得性偏差：容易想到的，不等于更常发生的 | [content/day-016.md](content/day-016.md) |
 | Day 017 | 沉没成本 | [content/day-017.md](content/day-017.md) |
 | Day 018 | 心理账户：钱在你脑子里被分了类 | [content/day-018.md](content/day-018.md) |
+| Day 019 | 达克效应 | [content/day-019.md](content/day-019.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 18,
+  "last_day": 19,
   "published": [
     {
       "day": 1,
@@ -147,7 +147,15 @@
       "tdoc_url": "",
       "tdoc_file_id": "",
       "date": "2026-10-14"
+    },
+    {
+      "day": 19,
+      "topic": "达克效应",
+      "github_path": "content/day-019.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-10-20"
     }
   ],
-  "next_action": "Day 019 达克效应（Phase 2 心理学基石第 9 天）"
+  "next_action": "Day 020 认知失调（Phase 2 心理学基石收官，第 10 天）"
 }

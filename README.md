@@ -32,6 +32,7 @@
 | Day 017 | 沉没成本 | [content/day-017.md](content/day-017.md) |
 | Day 018 | 心理账户：钱在你脑子里被分了类 | [content/day-018.md](content/day-018.md) |
 | Day 019 | 达克效应 | [content/day-019.md](content/day-019.md) |
+| Day 020 | 认知失调：为什么事后我们总在替自己的决定辩护？ | [content/day-020.md](content/day-020.md) |
 
 ## 🧭 系列主线（30 天路线图）
 

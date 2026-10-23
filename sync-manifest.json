@@ -2,7 +2,7 @@
   "project": "每日博弈论与心理学",
   "repo": "June031228/game-theory-psychology-daily",
   "total_days": 30,
-  "last_day": 19,
+  "last_day": 20,
   "published": [
     {
       "day": 1,
@@ -155,7 +155,15 @@
       "tdoc_url": "",
       "tdoc_file_id": "",
       "date": "2026-10-20"
+    },
+    {
+      "day": 20,
+      "topic": "认知失调",
+      "github_path": "content/day-020.md",
+      "tdoc_url": "",
+      "tdoc_file_id": "",
+      "date": "2026-10-23"
     }
   ],
-  "next_action": "Day 020 认知失调（Phase 2 心理学基石收官，第 10 天）"
+  "next_action": "Day 021 行为博弈论（Phase 3 行为博弈论开篇，第 1 天）"
 }
